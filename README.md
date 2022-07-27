@@ -27,9 +27,11 @@ Trying out various GAN implementations (ex. DCGAN [[1]](#1)), training parameter
 
 ## Demo
 
-During network training a batch of output images are generated at certain stages. They are saved to show how training progresses.
+During network training a batch of output images are generated at certain stages. They are saved to show how training progresses and preserve cool visual effect
 
-
+<div style="text-align: center">
+    <img src="https://github.com/kwarc-agat/abstract-art-generator/blob/main/gan_training_v1.gif?raw=true" width="400">
+</div>
 
 ## Getting started
 
